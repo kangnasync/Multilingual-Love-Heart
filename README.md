@@ -5,7 +5,7 @@ Featuring a dark background, glowing red text, gentle floating animations, and a
 
 Preview:
 
-![Multilingual Love Heart Preview](Multilingual-Love-Heart/loveheart.png)
+![Multilingual Love Heart Preview](loveheart.png)
 
 Features:
 
